@@ -1,2 +1,2 @@
 # aprendendo-js
-Primeiro projeto JS 
+Primeiro projeto JS - Alura
